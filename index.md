@@ -2,6 +2,9 @@
 
 # Cyrus E Moreno
 ## Data Analyst | Data Visualization Expert
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V11T8RL9)
+
 - [Linkedln](https://www.linkedin.com/in/cyrusemoreno/)
 - [Twitter](https://twitter.com/CyrusEMoreno)
 - [Gmail](mailto:cyrusthegreatmoreno@gmail.com)
