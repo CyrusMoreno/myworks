@@ -4,7 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/cyrusemoreno/)
 - [Kaggle](https://www.kaggle.com/cyrusmoreno)
 - [Twitter](https://twitter.com/CyrusEMoreno)
-- [Gmail](mailto:cyrusthegreatmoreno@gmail.com)
+  
 ###
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V11T8RL9)
 ## Github Notes
