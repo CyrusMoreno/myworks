@@ -1,34 +1,24 @@
-[
-  {
-    "id": "minimal_white",
-    "name": "Minimal White",
-    "description": "Clean, bright, and distraction-free.",
-    "isPremium": false,
-    "assets": {
-      "bgImage": "none"
-    },
-    "colors": {
-      "titleText": "#111111",
-      "youtubeLink": "#D32F2F",
-      "buttonBg": "#222222",
-      "buttonText": "#FFFFFF",
-      "surfaceBg": "rgba(255, 255, 255, 1)"
-    }
-  },
-  {
-    "id": "dark_cover",
-    "name": "Dark Cover",
-    "description": "A sleek, dark theme for your journal.",
-    "isPremium": true,
-    "assets": {
-      "bgImage": "https://cyrusmoreno.github.io/myworks/dark-granma.jpg"
-    },
-    "colors": {
-      "titleText": "#ffffff",
-      "youtubeLink": "#ff6666",
-      "buttonBg": "#444444",
-      "buttonText": "#ffffff",
-      "surfaceBg": "rgba(0, 0, 0, 0.2)"
-    }
-  }
-]
+availableThemes = [
+        {
+          "id": "default_cover", "type": "cover", "name": "Default Cover", "isPremium": false,
+          "assets": { "mainBg": "none" }
+        },
+        {
+          "id": "dark_cover", "type": "cover", "name": "Dark Cover", "description": "Sleek dark landing page.", "isPremium": true,
+          "assets": { "mainBg": "dark-cover.webp" } 
+        },
+        {
+          "id": "default_motif", "type": "motif", "name": "Default Motif", "isPremium": false,
+          "assets": { "journalBg": "none", "calendarBg": "none", "settingsBg": "none" },
+          "colors": { "titleText": "#111", "surfaceBg": "rgba(255, 255, 255, 1)" }
+        },
+        {
+          "id": "vintage_motif", "type": "motif", "name": "Brown Vintage Motif", "description": "Vintage inner pages.", "isPremium": true,
+          "assets": { 
+            "journalBg": "vintage-editor.webp", 
+            "calendarBg": "vintage-calendar.webp", 
+            "settingsBg": "vintage-settings.webp" 
+          },
+          "colors": { "titleText": "#3e2723", "surfaceBg": "rgba(244, 225, 193, 0.4)" }
+        }
+      ];
