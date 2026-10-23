@@ -1,0 +1,34 @@
+[
+  {
+    "id": "minimal_white",
+    "name": "Minimal White",
+    "description": "Clean, bright, and distraction-free.",
+    "isPremium": false,
+    "assets": {
+      "bgImage": "none"
+    },
+    "colors": {
+      "titleText": "#111111",
+      "youtubeLink": "#D32F2F",
+      "buttonBg": "#222222",
+      "buttonText": "#FFFFFF",
+      "surfaceBg": "rgba(255, 255, 255, 1)"
+    }
+  },
+  {
+    "id": "dark_cover",
+    "name": "Dark Cover",
+    "description": "A sleek, dark theme for your journal.",
+    "isPremium": true,
+    "assets": {
+      "bgImage": "https://github.com/CyrusMoreno/myworks/dark-drama.jpg"
+    },
+    "colors": {
+      "titleText": "#ffffff",
+      "youtubeLink": "#ff6666",
+      "buttonBg": "#444444",
+      "buttonText": "#ffffff",
+      "surfaceBg": "rgba(0, 0, 0, 0.2)"
+    }
+  }
+]
